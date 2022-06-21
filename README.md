@@ -12,13 +12,14 @@
   
 <h2>🖥️ Cybersecurity / System Admin projects:</h2> 
   
-### [Microsoft Sentinel (SIEM) - Map with live cyberattacks](https://github.com/YayoPalacios/Microsoft_Sentinel_Lab)
+## [Microsoft Sentinel (SIEM) - Map with live cyberattacks](https://github.com/YayoPalacios/Microsoft_Sentinel_Lab)
    
 <p align="left">
 <img src="https://imgur.com/RVUq7cw.png" height="40%" width="40%" alt="Project overview"/>
 </p>
-     
-### [Build an AD environment with Microsoft Azure](https://github.com/YayoPalacios/Azure_Active_Directory_Lab)
+
+  
+## [Build an AD environment with Microsoft Azure](https://github.com/YayoPalacios/Azure_Active_Directory_Lab)
 
 <p align="left">
 <img src="https://imgur.com/xHhg3Va.png" height="45%" width="45%" alt="AD"/>
@@ -28,8 +29,8 @@
  
 <h2>🌐 Web Development projects:</h2>
        
-### [Fictional Restaurant Website](https://github.com/YayoPalacios/CoderHouse_web_project)
-### [Responsive Web Design (Pinterest Clone)](https://github.com/YayoPalacios/Pinterest_clone_responsive)
+## [Fictional Restaurant Website](https://github.com/YayoPalacios/CoderHouse_web_project)
+## [Responsive Web Design (Pinterest Clone)](https://github.com/YayoPalacios/Pinterest_clone_responsive)
 
 <hr>  
  
