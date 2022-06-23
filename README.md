@@ -29,8 +29,8 @@
  
 <h2>🌐 Web Development projects:</h2>
        
-## [Fictional Restaurant Website](https://github.com/YayoPalacios/CoderHouse_web_project)
-## [Pinterest Clone (Responsive Grid)](https://github.com/YayoPalacios/Pinterest_clone_responsive)
+## [Fictional Restaurant website](https://github.com/YayoPalacios/CoderHouse_web_project)
+## [Pinterest clone (responsive grid)](https://github.com/YayoPalacios/Pinterest_clone_responsive)
 
 <hr>  
  
