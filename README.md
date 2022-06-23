@@ -15,14 +15,14 @@
 ## [Microsoft Sentinel (SIEM) - Map with live cyberattacks](https://github.com/YayoPalacios/Microsoft_Sentinel_Lab)
    
 <p align="left">
-<img src="https://imgur.com/RVUq7cw.png" height="40%" width="40%" alt="Project overview"/>
+<img src="https://imgur.com/RVUq7cw.png" height="45%" width="45%" alt="Project overview"/>
 </p>
 
   
 ## [Build an AD environment with Microsoft Azure](https://github.com/YayoPalacios/Azure_Active_Directory_Lab)
 
 <p align="left">
-<img src="https://imgur.com/xHhg3Va.png" height="45%" width="45%" alt="AD"/>
+<img src="https://imgur.com/xHhg3Va.png" height="50%" width="50%" alt="AD"/>
 </p>
   
 <br>  
