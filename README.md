@@ -16,6 +16,8 @@
      
 ## [Build an AD environment with Microsoft Azure](https://github.com/YayoPalacios/Azure_Active_Directory_Lab)
 
+## [Bandit by OverTheWire (walkthrough) | Linux oriented CTF](https://youtube.com/playlist?list=PLuYfa_nCnOPURyDp4aDT4TIhKr2XqxgLd)
+
 <br>  
  
 <h2>🌐 Web Development projects:</h2>
