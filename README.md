@@ -7,6 +7,7 @@
   
 - ### [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/fce9a4f9-a238-45ac-aa58-e31e3fac54f8?source=linked_in_profile)
 - ### [Microsoft 365 Certified: Fundamentals](https://www.credly.com/badges/f497099b-5e9c-40fe-a19b-78f607a0fcc5/public_url)  
+- ### [Linux Professional Institute: Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000535133/3wk5pytpt7)  
 
 <hr>  
   
@@ -16,7 +17,7 @@
      
 ## [Build an AD environment with Microsoft Azure](https://github.com/YayoPalacios/Azure_Active_Directory_Lab)
 
-## [Bandit by OverTheWire (walkthrough) | Linux oriented CTF](https://youtube.com/playlist?list=PLuYfa_nCnOPURyDp4aDT4TIhKr2XqxgLd)
+## [OverTheWire Bandit walkthrough (Linux CTF)](https://youtube.com/playlist?list=PLuYfa_nCnOPURyDp4aDT4TIhKr2XqxgLd)
 
 <br>  
  
