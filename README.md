@@ -1,9 +1,9 @@
-<h1 align="left">Hello, I'm Yael!<br>
-<a href="https://www.linkedin.com/in/yael-palacios-374226197/">IT Specialist and technology enthusiast</h1>
+> <h1 align="left">Hello, I'm Yael!<br>
+> <a href="https://www.linkedin.com/in/yael-palacios-374226197/">IT Specialist and technology enthusiast</h1>
 
 <br>  
     
-> <h2>📃 Certifications:</h2> 
+<h2>📃 Certifications:</h2> 
   
 - ## [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/fce9a4f9-a238-45ac-aa58-e31e3fac54f8?source=linked_in_profile)
 - ## [Microsoft 365 Certified: Fundamentals](https://www.credly.com/badges/f497099b-5e9c-40fe-a19b-78f607a0fcc5/public_url)  
@@ -11,7 +11,7 @@
 
 <br>  
   
-> <h2>🖥️ Cybersecurity / System Admin projects:</h2> 
+<h2>🖥️ Cybersecurity / System Admin projects:</h2> 
   
 - ## [Build an AD environment with Microsoft Azure](https://github.com/YayoPalacios/Azure_Active_Directory_Lab)
   
@@ -24,7 +24,7 @@
   
 <br>  
  
-> <h2>🌐 Web Development projects:</h2>
+<h2>🌐 Web Development projects:</h2>
        
 - ## [Fictional Restaurant website](https://github.com/YayoPalacios/CoderHouse_web_project)
 - ## [Pinterest clone (responsive grid)](https://github.com/YayoPalacios/Pinterest_clone_responsive)
