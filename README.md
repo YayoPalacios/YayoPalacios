@@ -1,5 +1,5 @@
-> <h1 align="left">Hello, I'm Yael!<br>
-> <a href="https://www.linkedin.com/in/yael-palacios-374226197/">IT Specialist and technology enthusiast</h1>
+<h1 align="left">Hello, I'm Yael!<br>
+<a href="https://www.linkedin.com/in/yael-palacios-374226197/">IT Specialist and technology enthusiast</h1>
 
 <br>  
     
