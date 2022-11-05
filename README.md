@@ -13,18 +13,20 @@
   
 <h2>🖥️ Cybersecurity / System Admin projects:</h2> 
   
-## [Microsoft Sentinel (SIEM) - Map with live cyberattacks](https://github.com/YayoPalacios/Microsoft_Sentinel_Lab)
+- ## [Microsoft Sentinel (SIEM) - Map with live cyberattacks](https://github.com/YayoPalacios/Microsoft_Sentinel_Lab)
      
-## [Build an AD environment with Microsoft Azure](https://github.com/YayoPalacios/Azure_Active_Directory_Lab)
+- ## [Build an AD environment with Microsoft Azure](https://github.com/YayoPalacios/Azure_Active_Directory_Lab)
+  
+- ## [Build a Nextcloud server with Ubuntu 22.04](https://github.com/YayoPalacios/Nextcloud_Server_Ubuntu)
 
-## [Linux CTF series - OTW Bandit walkthrough (YouTube playlist)](https://youtube.com/playlist?list=PLuYfa_nCnOPURyDp4aDT4TIhKr2XqxgLd)
+- ## [Linux CTF series - OTW Bandit walkthrough (YouTube playlist)](https://youtube.com/playlist?list=PLuYfa_nCnOPURyDp4aDT4TIhKr2XqxgLd)
 
 <br>  
  
 <h2>🌐 Web Development projects:</h2>
        
-## [Fictional Restaurant website](https://github.com/YayoPalacios/CoderHouse_web_project)
-## [Pinterest clone (responsive grid)](https://github.com/YayoPalacios/Pinterest_clone_responsive)
+- ## [Fictional Restaurant website](https://github.com/YayoPalacios/CoderHouse_web_project)
+- ## [Pinterest clone (responsive grid)](https://github.com/YayoPalacios/Pinterest_clone_responsive)
 
 <hr>  
  
