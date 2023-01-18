@@ -1,6 +1,10 @@
 <h1 align="left">Hello, I'm Yael!<br>
 <a href="https://www.linkedin.com/in/yael-palacios-374226197/">IT Specialist and technology enthusiast</h1>
     
+### 8+ years of experience in IT support and operations for large corporations. Proven problem-solver with analytical thinking and methodical approach. Seeking a challenging and dynamic work environment to utilize my skills and continue professional growth in the technology industry.
+    
+<br> 
+    
 <h2>📃 Certifications:</h2> 
   
 - ## [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/fce9a4f9-a238-45ac-aa58-e31e3fac54f8?source=linked_in_profile)
