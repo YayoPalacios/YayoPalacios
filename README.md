@@ -1,10 +1,11 @@
 <h1 align="left">Hello, I'm Yael!<br>
-<a href="https://www.linkedin.com/in/yael-palacios-374226197/">IT Professional and technology enthusiast</h1>
+<a href="https://www.linkedin.com/in/yael-palacios-374226197/">Cloud & Platform Engineer</h1>
  
 <br>
     
 <h2>📃 Certifications:</h2> 
-  
+
+- ## [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/ccc3ab0b-f4ea-4645-abb6-249dd62c1db7/public_url)  
 - ## [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/fce9a4f9-a238-45ac-aa58-e31e3fac54f8?source=linked_in_profile)
 - ## [Microsoft 365 Certified: Fundamentals](https://www.credly.com/badges/f497099b-5e9c-40fe-a19b-78f607a0fcc5/public_url)  
 - ## [Linux Professional Institute: Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000535133/3wk5pytpt7)  
