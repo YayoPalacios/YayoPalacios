@@ -1,7 +1,6 @@
 <h1 align="left">Hello, I'm Yael!<br>
 <a href="https://www.linkedin.com/in/yael-palacios-374226197/">Cloud + IAM Engineer</a></h1>
  
-<br>
     
 <h2>Certifications:</h2> 
 
@@ -11,20 +10,29 @@
 - ## [LPI - Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000535133/3wk5pytpt7)  
 
 <br>  
-  
-<h2>Cloud & Security Projects:</h2> 
-  
-- ## [Active Directory Environment on Microsoft Azure](https://github.com/YayoPalacios/Azure_Active_Directory_Lab)
-  
-- ## [Microsoft Sentinel (SIEM) - Map with Live Cyberattacks](https://github.com/YayoPalacios/Microsoft_Sentinel_Lab)
-       
-- ## [Build a Nextcloud Server with Ubuntu 22.04](https://github.com/YayoPalacios/Nextcloud_Server_Ubuntu)
 
-- ## [Linux CTF series - OTW Bandit walkthrough (YouTube playlist)](https://youtube.com/playlist?list=PLuYfa_nCnOPURyDp4aDT4TIhKr2XqxgLd) - Exploring Linux basics and security fundamentals through practical CTF challenges
+<h2>Cloud & Security Projects:</h2>
+
+- ## [AWS EC2 Security Detection & Auto-Remediation Lab](https://github.com/YayoPalacios/aws-ec2-security-detection)  
+  Lightweight detection-and-response workflow using CloudWatch, SNS, Lambda, and GuardDuty.
+
+- ## [Active Directory Environment on Microsoft Azure](https://github.com/YayoPalacios/Azure_Active_Directory_Lab)  
+  Deployment of a Windows Server AD environment for IAM practice in Azure.
+
+- ## [Microsoft Sentinel (SIEM) – Live Cyberattack Map](https://github.com/YayoPalacios/Microsoft_Sentinel_Lab)  
+  SIEM setup with a live threat visualization workbook.
+
+- ## [Nextcloud Server on Ubuntu 22.04](https://github.com/YayoPalacios/Nextcloud_Server_Ubuntu)  
+  Secure self-hosted cloud deployment with HTTPS and user management.
+
+- ## [Linux CTF Series – OverTheWire Bandit](https://youtube.com/playlist?list=PLuYfa_nCnOPURyDp4aDT4TIhKr2XqxgLd)  
+  Practical Linux and security fundamentals through CTF challenges.
 
   
 <br>  
- 
+
+---
+
 <h2>Web Projects:</h2>
        
 - ## [Fictional Restaurant website](https://github.com/YayoPalacios/CoderHouse_web_project)
