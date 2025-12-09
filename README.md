@@ -17,16 +17,16 @@
   Lightweight detection-and-response workflow using CloudWatch, SNS, Lambda, and GuardDuty.
 
 - ## [Active Directory Environment on Microsoft Azure](https://github.com/YayoPalacios/Azure_Active_Directory_Lab)  
-  Deployment of a Windows Server AD environment for IAM practice in Azure.
+  Deployment of a Windows Server Active Directory environment for IAM practice in Azure.
 
 - ## [Microsoft Sentinel (SIEM) – Live Cyberattack Map](https://github.com/YayoPalacios/Microsoft_Sentinel_Lab)  
-  SIEM setup with a live threat visualization workbook.
+  Built a Sentinel workbook that maps security alerts by location to explore geolocation, queries, and SIEM visualization.
 
 - ## [Nextcloud Server on Ubuntu 22.04](https://github.com/YayoPalacios/Nextcloud_Server_Ubuntu)  
-  Secure self-hosted cloud deployment with HTTPS and user management.
+  Secure self-hosted cloud setup with HTTPS, user management, and basic hardening.
 
 - ## [Linux CTF Series – OverTheWire Bandit](https://youtube.com/playlist?list=PLuYfa_nCnOPURyDp4aDT4TIhKr2XqxgLd)  
-  Practical Linux and security fundamentals through CTF challenges.
+  Hands-on Linux and security fundamentals practiced through progressively challenging CTF levels.
 
   
 <br>  
