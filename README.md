@@ -1,7 +1,6 @@
 # Cloud & IAM
 
-Cloud and infrastructure projects focused on identity, permissions, and security boundaries.
-Work spans AWS, Azure, and Linux-based environments.
+Cloud and infrastructure projects focused on identity, permissions, and security boundaries across AWS, Azure, and Linux.
 
 ## Projects
 
@@ -30,14 +29,11 @@ https://youtube.com/playlist?list=PLuYfa_nCnOPURyDp4aDT4TIhKr2XqxgLd
 ### iamwho
 Tool to reason about effective permissions and blast radius for AWS IAM users and roles.  
 Focus on identity scope and permission boundaries.
-
-## Connect with me
-
+<br>
 <p align="left">
-  <a href="https://linkedin.com/in/yael-palacios-374226197" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCTowqD_AhGEF_z5-MlSN_ZQ" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-  </a>
+<a href="https://linkedin.com/in/yael-palacios-374226197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yael-palacios-374226197" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCTowqD_AhGEF_z5-MlSN_ZQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tech_with_yayo" height="30" width="40" /></a>
 </p>
+
+
+
