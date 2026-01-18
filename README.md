@@ -1,7 +1,6 @@
 # Cloud & IAM
 
 Cloud and infrastructure projects with an emphasis on identity, permissions, and security boundaries.  
-Work spans AWS, Azure, and Linux-based environments.
 
 ## Projects
 
