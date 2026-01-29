@@ -2,7 +2,7 @@
 
 Cloud security and IAM projects.
 
-## In progress ...
+## In progress
 
 **iamwho** – Static AWS IAM security analyzer focused on trust boundaries, effective permissions, and privilege escalation paths.  
 → https://github.com/YayoPalacios/iamwho
