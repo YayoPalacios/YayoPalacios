@@ -2,11 +2,15 @@
 
 Cloud security & IAM projects, mostly AWS and identity-focused.
 
-## In progress
 
-**iamwho** – Static AWS IAM security analyzer focused on trust boundaries, effective permissions, and privilege escalation.  
-→ https://github.com/YayoPalacios/iamwho
+## Tools
 
+**iamwho** – Static AWS IAM analyzer that maps what becomes reachable after compromise.
+
+`pip install iamwho` · [GitHub](https://github.com/YayoPalacios/iamwho) · [PyPI](https://pypi.org/project/iamwho/)
+
+
+---
 ## Projects
 
 ### AWS EC2 Security Detection & Auto-Remediation
@@ -29,6 +33,7 @@ Self-hosted Nextcloud on Ubuntu with HTTPS, user management, and basic hardening
 Progressive Linux fundamentals practiced through hands-on CTF challenges.  
 → https://youtube.com/playlist?list=PLuYfa_nCnOPURyDp4aDT4ThIKr2xqgLd
 
+---
 ## Certifications
 
 - Google Cybersecurity Certificate  
