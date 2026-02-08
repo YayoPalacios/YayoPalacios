@@ -2,13 +2,12 @@
 
 Cloud security & IAM projects, mostly AWS and identity-focused.
 
-
 ## Tools
 
-**iamwho** – Static AWS IAM analyzer that maps what becomes reachable after compromise.
+**iamwho** - Static AWS IAM attack-path analyzer.  
+Maps what becomes reachable after an IAM principal is compromised.
 
 `pip install iamwho` · [GitHub](https://github.com/YayoPalacios/iamwho) · [PyPI](https://pypi.org/project/iamwho/)
-
 
 ---
 ## Projects
