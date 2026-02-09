@@ -1,7 +1,8 @@
 # Cloud & IAM
 
 Cloud security and identity-focused projects.  
-Mostly AWS, IAM, and hands-on labs built to understand real-world access, detection, and abuse scenarios.
+Primarily AWS and IAM, with hands-on labs and tools built to better understand
+real-world access, detection, and abuse scenarios.
 
 ---
 
@@ -10,7 +11,7 @@ Mostly AWS, IAM, and hands-on labs built to understand real-world access, detect
 ### iamwho
 Static AWS IAM attack-path analyzer.
 
-Maps what becomes reachable after an IAM principal is compromised.
+Analyzes IAM configurations to determine what becomes reachable after an identity is compromised.
 
 - `pip install iamwho`
 - https://github.com/YayoPalacios/iamwho  
