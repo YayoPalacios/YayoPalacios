@@ -1,38 +1,47 @@
 # Cloud & IAM
 
-Cloud security & IAM projects, mostly AWS and identity-focused.
+Cloud security and identity-focused projects.  
+Mostly AWS, IAM, and hands-on labs built to understand real-world access, detection, and abuse scenarios.
+
+---
 
 ## Tools
 
-**iamwho** - Static AWS IAM attack-path analyzer.  
+### iamwho
+Static AWS IAM attack-path analyzer.
+
 Maps what becomes reachable after an IAM principal is compromised.
 
-`pip install iamwho` · [GitHub](https://github.com/YayoPalacios/iamwho) · [PyPI](https://pypi.org/project/iamwho/)
+- `pip install iamwho`
+- https://github.com/YayoPalacios/iamwho  
+- https://pypi.org/project/iamwho/
 
 ---
+
 ## Projects
 
 ### AWS EC2 Security Detection & Auto-Remediation
-Lightweight detection-and-response lab using GuardDuty findings and Lambda-based remediation.  
-→ https://github.com/YayoPalacios/aws-ec2-security-detection
+Detection and response lab using GuardDuty findings and Lambda-based remediation.  
+Repo: https://github.com/YayoPalacios/aws-ec2-security-detection
 
-### Active Directory Environment on Microsoft Azure
-Active Directory lab on Azure to explore enterprise identity and access fundamentals.  
-→ https://github.com/YayoPalacios/Azure_Active_Directory_Lab
+### Active Directory Environment on Azure
+Active Directory lab deployed on Azure to explore enterprise identity and access fundamentals.  
+Repo: https://github.com/YayoPalacios/Azure_Active_Directory_Lab
 
 ### Microsoft Sentinel (SIEM) – Live Cyberattack Map
-Exploratory SIEM lab focused on security telemetry, queries, and basic visualization.  
-→ https://github.com/YayoPalacios/Microsoft_Sentinel_Lab
+SIEM lab focused on log ingestion, queries, and basic visualization.  
+Repo: https://github.com/YayoPalacios/Microsoft_Sentinel_Lab
 
 ### Nextcloud Server on Ubuntu 22.04
-Self-hosted Nextcloud on Ubuntu with HTTPS, user management, and basic hardening.  
-→ https://github.com/YayoPalacios/Nextcloud_Server_Ubuntu
+Self-hosted Nextcloud with HTTPS, user management, and baseline system hardening.  
+Repo: https://github.com/YayoPalacios/Nextcloud_Server_Ubuntu
 
-### Linux CTF Series – OverTheWire Bandit
-Progressive Linux fundamentals practiced through hands-on CTF challenges.  
-→ https://youtube.com/playlist?list=PLuYfa_nCnOPURyDp4aDT4ThIKr2xqgLd
+### Linux CTF Series – OverTheWire (Bandit)
+Hands-on Linux fundamentals practiced through CTF challenges.  
+Playlist: https://youtube.com/playlist?list=PLuYfa_nCnOPURyDp4aDT4ThIKr2xqgLd
 
 ---
+
 ## Certifications
 
 - Google Cybersecurity Certificate  
